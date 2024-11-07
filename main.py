@@ -43,10 +43,7 @@ elif appMode == "About":
                 This dataset is created using offline augmentation from the original dataset. The original
                 dataset can be found on: https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
 
-                This project was made using the Convolution Neural Network(CNN) model of machine learning.
-
-                This project was made by the five of us:
-                1. **Srayan Bhattacharya**   
+                This project was made using the Convolution Neural Network(CNN) model of machine learning. 
 """)
     
 #Disease Detection page
